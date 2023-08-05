@@ -1,0 +1,142 @@
+.container {
+    background-color: rgb(255, 255, 255);
+    
+    
+}
+.row {
+    width: 500px;
+    height: 30px;
+
+}
+
+.red {
+    height: 30px;
+    width: 250px;
+    float: left;
+    background-color: red;
+}
+.blue {
+    height: 30px;
+    width: 250px;
+    background-color: blue;
+    float: left;
+
+}
+.green {
+    height: 30px;
+    width: 475px;
+    background-color: green;
+    float: left;
+
+}
+.blue2 {
+    height: 30px;
+    width: 25px;
+    background-color: blue;
+    float: left;
+
+}
+.red3 {
+    height: 30px;
+    width: 25px;
+    background-color: red;
+    float: left;
+}
+.green3 {
+    height: 30px;
+    width: 450px;
+    background-color: green;
+    float: left;
+}
+.blue3 {
+    height: 30px;
+    width: 25px;
+    background-color: blue;
+    float: left;
+}
+.red4 {
+    height: 30px;
+    width: 475px;
+    background-color: red;
+    float: left;
+}
+.blue4 {
+    height: 30px;
+    width: 25px;
+    background-color: blue;
+    float: left;
+}
+.green5 {
+    height: 30px;
+    width: 500px;
+    background-color: green;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.red5 {
+    height: 20px;
+    width: 20px;
+    background-color: red;
+    float: left;
+
+}
+.red6 {
+    height: 30px;
+    width: 237.5px;
+    background-color: red;
+    float: left;
+}
+.blue6 {
+    height: 30px;
+    width: 25px;
+    background-color: blue;
+    float: left;
+}
+
+.red7 {
+    height: 30px;
+    width: 25px;
+    background-color: red;
+    float: left;
+}
+.blue7 {
+    height: 10px;
+    width: 475px;
+    background-color: blue;
+    float: left;
+}
+.green7 {
+    height: 10px;
+    width: 475px;
+    background-color: green;
+    float: left;
+}
+.yellow8 {
+    height: 30px;
+    width: 25px;
+    background-color: yellow;
+    float: left;
+}
+.green8 {
+    height: 30px;
+    width: 93.75px;
+    background-color: green;
+    float: left;
+}
+.yellow9 {
+    height: 30px;
+    width: 90px;
+    background-color: yellow;
+    float: left;
+
+}
+.green9 {
+    height: 30px;
+    width: 12.5px;
+    background-color: green;
+    float: left;
+
+}
+
