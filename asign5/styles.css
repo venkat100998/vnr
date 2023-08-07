@@ -1,0 +1,101 @@
+.container {
+    height: 33vh;
+    width: 100vw;
+    display: flex;
+    background-color: white;
+
+}
+.container1 {
+    height: 33vh;
+    width: 100vw;
+    display: flex;
+    background-color: white;
+
+}
+.container2 {
+    height: 33vh;
+    width: 100vw;
+    display: flex;
+    background-color: white;
+
+}
+.container3 {
+    height: 33vh;
+    width: 100vw;
+    display: flex;
+    background-color: white;
+
+}
+.box1 {
+    height: 32vh;
+    width: 33%;
+    margin: 5px;
+    background-color: #B8336A;
+    color: white;
+    justify-content: center;
+    text-align: center;
+}
+.box2 {
+    height: 32vh;
+    width: 33%;
+    margin: 5px;
+    background-color: #726DA8;
+    color: white;
+    justify-content: center;
+    text-align: center;
+}
+.box3 {
+    height: 32vh;
+    width: 33%;
+    margin: 5px;
+    background-color: #7C8CC4;
+    color: white;
+    justify-content: center;
+    text-align: center;
+}
+.box4 {
+    height: 32vh;
+    width: 33%;
+    margin: 5px;
+    background-color: #9FD2DB;
+    color: white;
+    justify-content: center;
+    text-align: center;
+}
+.box5 {
+    height: 32vh;
+    width: 33%;
+    margin: 5px;
+    background-color: #C490D2;
+    color: white;
+    justify-content: center;
+    text-align: center;
+}
+.box6 {
+    height: 32vh;
+    width: 33%;
+    margin: 5px;
+    background-color: #B8336A;
+    color: white;
+    justify-content: center;
+    text-align: center;
+}
+.box7 {
+    height: 32vh;
+    width: 33%;
+    margin: 5px;
+    background-color: #726DA8;
+    color: white;
+    justify-content: center;
+    text-align: center;
+}
+
+.box8 {
+    height: 32vh;
+    width: 33%;
+    margin: 5px;
+    background-color: #7C8CC4;
+    color: white;
+    justify-content: center;
+    text-align: center;
+}
